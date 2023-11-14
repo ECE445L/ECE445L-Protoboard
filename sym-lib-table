@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ti_TLV5618AIP")(type "KiCad")(uri "${KIPRJMOD}/ECE445L-Hardware-Libraries/baseline_project/symbols/ti_TLV5618AIP.kicad_sym")(options "")(descr ""))
+  (lib (name "adafruit_st7735r")(type "KiCad")(uri "${KIPRJMOD}/ECE445L-Hardware-Libraries/baseline_project/symbols/adafruit_st7735r.kicad_sym")(options "")(descr ""))
+  (lib (name "ai_thinker_ESP8266_01")(type "KiCad")(uri "${KIPRJMOD}/ECE445L-Hardware-Libraries/baseline_project/symbols/ai_thinker_ESP8266_01.kicad_sym")(options "")(descr ""))
+  (lib (name "motorola_MCP34119P")(type "KiCad")(uri "${KIPRJMOD}/ECE445L-Hardware-Libraries/baseline_project/symbols/motorola_MCP34119P.kicad_sym")(options "")(descr ""))
+  (lib (name "ti_EKTM4C123GXL")(type "KiCad")(uri "${KIPRJMOD}/ECE445L-Hardware-Libraries/baseline_project/symbols/ti_EKTM4C123GXL.kicad_sym")(options "")(descr ""))
+  (lib (name "ti_LM4041CILPR")(type "KiCad")(uri "${KIPRJMOD}/ECE445L-Hardware-Libraries/baseline_project/symbols/ti_LM4041CILPR.kicad_sym")(options "")(descr ""))
+  (lib (name "MSPM0G3507SPMx")(type "KiCad")(uri "${KIPRJMOD}/ECE445L-Hardware-Libraries/baseline_project/symbols/MSPM0G3507SPMx.kicad_sym")(options "")(descr ""))
+)
