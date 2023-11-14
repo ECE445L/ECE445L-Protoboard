@@ -1,0 +1,3 @@
+[submodule "ECE445L-Hardware-Libraries"]
+	path = ECE445L-Hardware-Libraries
+	url = https://github.com/ECE445L/ECE445L-Hardware-Libraries
