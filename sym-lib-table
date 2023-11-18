@@ -6,5 +6,5 @@
   (lib (name "motorola_MCP34119P")(type "KiCad")(uri "${KIPRJMOD}/ECE445L-Hardware-Libraries/baseline_project/symbols/motorola_MCP34119P.kicad_sym")(options "")(descr ""))
   (lib (name "ti_EKTM4C123GXL")(type "KiCad")(uri "${KIPRJMOD}/ECE445L-Hardware-Libraries/baseline_project/symbols/ti_EKTM4C123GXL.kicad_sym")(options "")(descr ""))
   (lib (name "ti_LM4041CILPR")(type "KiCad")(uri "${KIPRJMOD}/ECE445L-Hardware-Libraries/baseline_project/symbols/ti_LM4041CILPR.kicad_sym")(options "")(descr ""))
-  (lib (name "MSPM0G3507SPMx")(type "KiCad")(uri "${KIPRJMOD}/ECE445L-Hardware-Libraries/baseline_project/symbols/MSPM0G3507SPMx.kicad_sym")(options "")(descr ""))
+  (lib (name "ti_MSPM0G3507SPMx")(type "KiCad")(uri "${KIPRJMOD}/ECE445L-Hardware-Libraries/baseline_project/symbols/ti_MSPM0G3507SPMx.kicad_sym")(options "")(descr ""))
 )
