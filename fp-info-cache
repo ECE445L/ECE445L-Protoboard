@@ -1,4 +1,4 @@
-22470336764625512
+22473737467588725
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -92519,6 +92519,20 @@ ai_thinker_ESP8266_01
 8
 8
 footprints
+generic_LQFP64_0.4mm
+LQFP, 64 Pin (https://www.nxp.com/docs/en/package-information/SOT414-1.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+64
+64
+footprints
+generic_VSSOP_0.5mm
+VSSOP, 10 Pin (http://www.ti.com/lit/ds/symlink/ads1115.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+VSSOP SO
+0
+32
+32
+footprints
 ti_EKTM4C123GXL
 
 
@@ -92551,8 +92565,8 @@ ti_MSPM0G3507_VSSOP
 VSSOP, 10 Pin (http://www.ti.com/lit/ds/symlink/ads1115.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 VSSOP SO
 0
-10
-10
+28
+28
 footprints
 ti_TLV5618AIP
 P (R-PDIP-T8)
